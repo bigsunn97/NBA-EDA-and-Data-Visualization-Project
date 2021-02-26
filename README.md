@@ -8,6 +8,7 @@ The first was whether or not home court advantage really makes a difference in t
 ![alt text](https://raw.githubusercontent.com/bigsunn97/NBA-EDA-and-Data-Visualization-Project/main/download-2.png)
 ![alt text](https://raw.githubusercontent.com/bigsunn97/NBA-EDA-and-Data-Visualization-Project/main/download.png)
 
+
 I also analyzed Kobe and Lebron's careers, specifically their respective relationships between points and Field Goal %. The scatter plot shows that although Kobe had more instances of scoring more than 40+ points, Lebron on average has a higher FG% percentage and a tighter dispersion of points scored. 
 
 ![alt text](https://raw.githubusercontent.com/bigsunn97/NBA-EDA-and-Data-Visualization-Project/main/download-1.png)
